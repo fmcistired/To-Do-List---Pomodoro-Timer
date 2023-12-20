@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple to-do list project named "FMC To-Do List" with basic HTML, CSS, and JavaScript functionality. The project allows users to add, check, and remove tasks.
+This is a simple to-do list project with basic HTML, CSS, and JavaScript functionality. The project allows users to add, check, and remove tasks.
 
 ## Table of Contents
 
