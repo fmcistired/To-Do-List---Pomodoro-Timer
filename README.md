@@ -35,5 +35,3 @@ Open the `index.html` file in a web browser to use the FMC To-Do List. You can a
 - **Local Storage:** The tasks are stored in the browser's local storage, allowing them to persist even after a page refresh.
 
 ---
-
-Feel free to customize the README to include more details about your project or any additional information you find relevant. Adding screenshots or GIFs can provide a visual representation of your to-do list's features. Additionally, consider providing instructions for any dependencies or prerequisites needed to run the project.
